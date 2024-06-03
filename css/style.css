@@ -879,7 +879,7 @@ a:focus {
 }
 
 .info_section .info_form .social_box {
-  margin-top: 100px;
+  margin-top: 50px;
   width: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -887,9 +887,9 @@ a:focus {
 }
 
 .info_section .info_form .social_box a {
-  margin-right: 100px;
+  margin-right: 50px;
   color: #ffffff;
-  font-size: 60px;
+  font-size: 40px;
 }
 
 /* footer section*/
